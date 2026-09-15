@@ -1,0 +1,10 @@
+# Development and scratch files
+scratch/
+stitch_china_sourcing_agent_website/
+__pycache__/
+*.pyc
+*.pyo
+chatgpt_full_response_1619.md
+extracted_conversation.txt
+.DS_Store
+Thumbs.db
